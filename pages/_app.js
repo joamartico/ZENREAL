@@ -40,6 +40,7 @@ function MyApp({ Component, pageProps }) {
 					name="keywords"
 					content="zen, real, meditation, mind full, mindfull, mind"
 				/>
+				<meta name="google-site-verification" content="3XoSVdS7QLQWutddbE1sJ60XT3mFR-WXrP80V4AharU" />
 				{/*  PWA  */}
 				<meta
 					name="viewport"
